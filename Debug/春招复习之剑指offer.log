@@ -1,0 +1,15 @@
+﻿  CMyString.cpp
+E:\高级数据结构复习\春招复习之剑指offer\春招复习之剑指offer\CMyString.cpp(21,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+E:\高级数据结构复习\春招复习之剑指offer\春招复习之剑指offer\CMyString.cpp(106,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+E:\高级数据结构复习\春招复习之剑指offer\春招复习之剑指offer\CMyString.cpp(123,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+E:\高级数据结构复习\春招复习之剑指offer\春招复习之剑指offer\CMyString.cpp(151,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+E:\高级数据结构复习\春招复习之剑指offer\春招复习之剑指offer\CMyString.cpp(152,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  参见“strcat”的声明
+E:\高级数据结构复习\春招复习之剑指offer\春招复习之剑指offer\CMyString.cpp(226,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+  new和delete运算符重载.cpp
+  春招复习之剑指offer.vcxproj -> E:\高级数据结构复习\春招复习之剑指offer\Debug\春招复习之剑指offer.exe
